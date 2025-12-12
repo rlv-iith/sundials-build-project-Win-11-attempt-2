@@ -1,4 +1,4 @@
-&nbsp;   # Project Status Report: SUNDIALS Windows Build Optimization
+\# Project Status Report: SUNDIALS Windows Build Optimization
 
 \*\*Objective:\*\* Build SUNDIALS v6.6.0 with High-Performance Sparse Linear Solvers (\*\*SuperLU\*\*) and LAPACK/PARDISO support (\*\*Intel MKL\*\*) on Windows 11 (Visual Studio 2026).
 
